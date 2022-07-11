@@ -1,5 +1,7 @@
 local:
-
+  url: 'http://www.byjg.com.br/site/webservice.php/ws/cep'
+  get_post: 'https://jsonplaceholder.typicode.com/posts/<id>'
+  
 dev:
 
 hom:
